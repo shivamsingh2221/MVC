@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Hercules\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Hercules\\.nuget\\packages"
+    ]
+  }
+}
